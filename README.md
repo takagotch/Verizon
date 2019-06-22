@@ -1,5 +1,7 @@
 ### Verizon
 ---
+https://www.verizonwireless.com/
+
 https://github.com/verizon
 
 ```
